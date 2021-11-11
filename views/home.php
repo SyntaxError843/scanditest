@@ -17,8 +17,8 @@ ob_start();
         <div class="flex w-full pt-6 pb-2 border-b-2">
             <h1 class="text-2xl mr-auto">Product List</h1>
             <div class="ml-auto uppercase">
-                <a href="/add-product" class="mr-4 rounded border-2 border-black px-2 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">add</a>
-                <button id="delete-product-btn" class="mr-4 uppercase rounded border-2 border-black px-2 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">mass delete</button>
+                <a href="/add-product" class="mr-4 rounded border-2 border-black px-2 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">ADD</a>
+                <button id="delete-product-btn" class="mr-4 uppercase rounded border-2 border-black px-2 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">MASS DELETE</button>
             </div>
         </div>
 
