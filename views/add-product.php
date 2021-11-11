@@ -11,7 +11,7 @@ ob_start();
 
 ?>
 
-<form action="/add-product" method="post" id="product-form">
+<form action="/add-product" method="post" id="product_form">
 <?php set_csrf(); ?>
     <div class="w-full px-12">
         <div class="flex w-full pt-6 pb-2 border-b-2">
