@@ -17,8 +17,8 @@ ob_start();
         <div class="flex w-full pt-6 pb-2 border-b-2">
             <h1 class="text-2xl mr-auto">Product Add</h1>
             <div class="ml-auto capitalize">
-                <button class="capitalize rounded leading-tight mr-4 border-2 border-black px-3 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">save</button>
-                <a href="/" class="mr-4 leading-tight rounded border-2 border-black px-3 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">cancel</a>
+                <button class="capitalize rounded leading-tight mr-4 border-2 border-black px-3 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">Save</button>
+                <a href="/" class="mr-4 leading-tight rounded border-2 border-black px-3 py-1 shadow-md cursor-pointer hover:bg-gray-100 transition">Cancel</a>
             </div>
         </div>
 
